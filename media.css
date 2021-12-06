@@ -2,6 +2,8 @@
     .col-3,.col-4,.col-5,.col-6 {
         width: 100%;
     }
+    
+      
     .container{
         padding: 0 20px;
     }
@@ -9,7 +11,7 @@
         width: 100%;
     }
     .electrical__title {
-        font-size: 28px;
+        font-size: 18px;    
         line-height: 36px;
     }        
     .electrical__subtitle {
