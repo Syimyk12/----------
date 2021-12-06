@@ -1,0 +1,221 @@
+@media screen and (max-width:726px) {
+    .col-3,.col-4,.col-5,.col-6 {
+        width: 100%;
+    }
+    .container{
+        padding: 0 20px;
+    }
+    .ourpartners-item{
+        width: 100%;
+    }
+    .electrical__title {
+        font-size: 28px;
+        line-height: 36px;
+    }        
+    .electrical__subtitle {
+        width: 330px;
+        font-size: 13px;
+        line-height: 10px;
+        text-align: center;
+    }
+    .header__row{
+       display: block;
+        left: 0;
+        top: 0;
+        width: 100%;
+    } 
+    .header__title{
+        display: flex;
+        justify-content: space-around;
+        padding: 12px;
+    }       
+    .header__row img{
+        padding: 12px;
+        width: 280px;
+    }
+    .electrical img{
+        width: 180px;
+    }
+    .electrical__row h4{
+        margin-top: 330px;
+        font-size: 15px;
+        width: 20px;
+    }
+    .electrical__row h3{
+        width: 210px;
+        left: 150px;
+        top: 252px;
+        font-size: 12px;
+    }
+    .electrical__row p{
+        width: 250px;
+        margin-top: 3px;
+    }
+    .electrical__row button svg{
+        width: 250px;
+        height: 55px;
+        left: 70px;
+        top: 600px;
+    }
+    .electrical__row button {
+        background:url(matthew-henry-yETqkLnhsUI-unsplash.jpg); ;
+        border: none;
+    }
+    .company .col-6 h1{
+        position: absolute;
+        top: 1150px;
+        font-size: 38px;
+    }
+    
+    .company .col-6 p{
+        width: 330px;
+        font-size: 18px;
+        font-weight: normal;
+    }
+    .company__row ul{
+        font-size: 15px;
+        font-weight: normal;
+    }
+    .company__row .col-6 img{
+        padding: 20px;
+        width: 300px;
+    }
+    .benefits h2{
+        width: 350px;
+        font-size: 29px;
+    }
+    .benefits .col-4{
+        flex-wrap: nowrap;
+    }
+    .benefits .col-4 p{
+        position: absolute;
+        width: 240px;
+        left: 124px;
+    }
+    .partners-item img{
+        width: 300px;
+        padding: 20px;
+    }
+    .partners .col-6 h4{
+        width: 350px;
+        font-size: 15px;
+    }
+    .partners .col-6 ul {
+        width: 310px;
+        font-size: 15px;
+    }
+    .partners .col-6 p{
+        font-size: 18px;
+        width: 345px;
+    }
+    .project .title{
+        font-size: 20px;
+        width: 300px;
+        margin-bottom: 50px;
+    }
+    .project-item{
+        padding: 20px;
+    }
+    .project-item h6 {
+        width: 250px;
+        left: 20px;
+        padding: 20px;   
+        font-size: 15px;
+    }
+    .project__row button{
+        position: relative;
+        margin-top: 20px;
+        width: 200px;
+        height: 10px;
+        left: 50px;
+        top: 1px;
+    }
+    .catalog .title{
+        position: relative;
+        font-size: 38px;
+        left: -100px;
+    }
+    .catalog__row{
+        display: block;
+        flex-wrap: wrap;
+    }
+    .catalog .col-3{
+        position: relative;
+        width: 230px;
+        height: 330px;
+        left: -120px;
+    }
+    .uorpartners__title h2{
+        font-size: 15px;
+    position: absolute;
+    margin-top: -95px;
+    line-height: 56px;
+    left: 7px;
+    }
+    .uorpartners__title p{
+        width: 210px;
+    position: absolute;
+    margin-top: -80px;
+    left: 150px;
+    font-size: 15px;
+    }
+    .ourpartners-item{
+        position: relative;
+        left: -100px;
+        margin-bottom: 90px;
+    }
+    .connetion__row{
+        display: block;
+    }
+    .connetion__row img{
+        width: 300px;
+        height: 400px;
+        padding: 12px;
+        margin: 12px;
+    }
+    .connetion__title h2{
+        font-size: 28px;
+        margin-bottom: 80px;
+    }
+    .connetion input{
+        width: 250px;
+    }
+    .connetion__message input{
+        height: 100px;
+    
+        margin-top: 50px;
+    }
+    .connetion__row button {
+        position: relative;
+        }
+        .footer__row{
+            display: block;
+            width: 250px;
+        }
+        .footer-item p{
+            position: relative;
+            left: -50px;
+        }
+        .footer-item img{
+            position: relative;
+            left: -60px;
+        }
+        .footer__phone{
+            justify-content: space-around;
+        }
+        .footer__phone h5{
+            position: relative;
+            left: -40px;
+        }
+        .footer__phone h6 {
+            position: relative;
+            left: -40px;
+        }
+        .footer__map h5{
+            position:absolute;
+            width: 180px;
+        }
+        .footer-item button{
+            left: 50px;
+        }
+}
